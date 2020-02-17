@@ -1,0 +1,5 @@
+file asynRecord.template
+{
+	pattern { P	     , R					, PORT		, ADDR , OMAX , IMAX }
+		{ XF:11BM-OP , "{Agilent:1}Asyn"	, AGILENT	, 0    , 0    , 0    }
+}

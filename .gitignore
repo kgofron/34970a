@@ -1,3 +1,10 @@
+*~
+O.linux-x86_64
+db
+dbd
+bin
+O.Common
+envPaths
 # Prerequisites
 *.d
 
